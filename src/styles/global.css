@@ -56,3 +56,6 @@ header, footer {
 .zoom:hover {
     transform: scale(1.2)
   }
+label{
+  font-size: medium;
+}
